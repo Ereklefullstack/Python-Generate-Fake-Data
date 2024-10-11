@@ -1,8 +1,8 @@
-Requirements:
-pip install faker
-pip install pandas
+<h3>Requirements:</h3>
+<h4>pip install faker</h4>
+pip install pandas</h4>
 
-Then import:
-from faker import Faker
-import random
-import pandas as pd
+<h3>Then import:</h3>
+<h4>from faker import Faker</h4>
+<h4>import random</h4>
+<h4>import pandas as pd</h4>
